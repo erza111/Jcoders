@@ -1,0 +1,60 @@
+.main{background-color: lightblue;
+    height: 1000px;
+
+ 
+}
+
+.part1 {
+    margin: auto;
+    width:1000px;
+    height: 500px ;
+    background-color: darkblue;
+    display: flex;
+    justify-content:space-around ;
+    border-radius: 15px;
+    padding: 5px;
+    text-align: left;
+    
+    margin-left: 125px;
+
+}
+
+
+.contact{
+    display: flex;
+}
+.part2 {
+
+    margin: auto;
+    width: 400px;
+    background-color: whitesmoke;
+    margin top:50px ;
+    height: 250px ;
+    display: flex;
+    justify-content:space-around ;
+    border-radius: 15px;
+    padding: 5px;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

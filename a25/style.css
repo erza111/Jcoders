@@ -1,0 +1,15 @@
+:root{
+    --erza: green;
+}
+
+.box1 {
+    height: 200px;
+    width: 200px;
+    background-image: radial-gradient( var(--erza),yellow) ;
+}
+
+.main {
+    width: 500px;
+    height: 500px;
+    background: linear-gradient(90deg );
+}

@@ -1,0 +1,22 @@
+
+.a:link{
+    color: greenyellow;
+}
+
+.a:visited{
+    color: red;
+
+}
+
+.a:hover{
+    color: green;
+}
+
+.a:active{
+    color: rgb(red, green, blue);
+}
+
+
+p:first-line{
+   background-color: aqua;
+}

@@ -1,0 +1,176 @@
+.a{
+    display: block;
+    margin-left: 50px;
+}
+.b{
+    color: rgb(184, 171, 171);
+    margin-left: 50px;
+    margin-top: -10px;
+}
+
+
+
+.serq{
+    position: absolute;
+    top: 0;
+    right: 0;
+    
+
+}
+.bell{
+    position: absolute;
+    top: 0;
+right: 30px;
+
+}
+.poa{
+    position: absolute;
+    top: 0;
+    right: 60px;
+}
+
+
+.text{
+
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.text1{
+    color: rgb(184, 171, 171);
+margin-left: 50px;
+}
+.box{
+    width: 300px;
+    height:50px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    margin-left: 55px;
+}
+.box p {
+    margin-left: 30px;
+}
+#second{
+    font-size:smaller;
+    margin-top: -15px;
+    color: rgb(184, 171, 171);
+}
+#third{
+    font-size: smaller;
+    margin-top: -30px;
+margin-left: 85px;
+border: 1px solid blue;
+margin-right: 90px;
+color: blue;
+border-radius: 3px;
+text-align: center;
+width: 50px;
+}
+#value{
+    margin-left: 230px;
+    color:red;
+    margin-top: -35px;
+    justify-content: center;
+    position: absolute;
+}
+
+.text2{
+    color: rgb(184, 171, 171);
+    margin-left: 50px;
+    margin-top: 80px;
+}
+.bluebox{
+    border: 1px solid blue;
+    width: 450px;
+    height:100px ;
+background-color: blue;
+border-radius: 7px;
+position: absolute;
+left: 900px;
+bottom: 550px;
+
+}
+
+
+
+.bluebox p{
+    font-size: medium;
+    margin-left: 25px;
+    color: white;
+
+
+}
+
+
+#money{
+    font-size:x-large;
+margin-top: -10px;
+}
+
+#prima{
+    border: 1px solid white;
+    color: white;
+    margin-left: 127px;
+    text-align: center;
+    border-radius: 7px;
+   margin-top: -47px;
+    width: 70px;
+}
+
+
+.exp{
+margin-left:1250px ;
+margin-top: -510px;
+position: absolute;
+color: white;
+}
+
+.arrow{
+    margin-left: 1215px;
+    position: absolute;
+    margin-top: -490px;
+    color: white;
+    font-size: large;
+
+}
+
+
+.number{
+    position: absolute;
+    color:white;
+    margin-left: 1250px;
+    margin-top: -495px;
+}
+
+.incomes{
+    position: absolute;
+    color:white;
+    margin-left: 1250px;
+    margin-top:-470px;
+
+}
+.arr1{
+    position: absolute;
+    color:white;
+    margin-left: 1215px;
+    margin-top: -455px;
+
+}
+.numb1{
+    position: absolute;
+    color:white;
+    margin-left: 1250px;
+    margin-top:-455px;
+    z-index: 1;
+
+    
+}
+
+.card{
+    position: absolute;
+
+}
+.box99{
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    margin-left: 1250px;
+}
+

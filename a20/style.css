@@ -1,0 +1,43 @@
+.circle{
+    width: 200px;
+    height: 200px;
+    background-image: linear-gradient(to right, orange, red);
+    border-radius:100%;
+    transition: 2s transform;
+
+}
+.circle:hover {
+    transform: translate(500px) rotate(360deg) scale(2);    
+}
+.shape{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 100%;
+}
+
+.shape:hover{
+border-radius: 0%;
+background-color: green;
+    animation: myshape 5s;
+}
+@keyframes myshape {
+    from{border-radius:100%;}
+    to{border-radius:0%}
+}
+
+@keyframes myshape{
+    0% {border-radius: 100%;}
+     
+
+    35% {
+        border-radius: 0%;
+    background-color: red;
+    }
+
+    100%{
+        background-color: green;
+    border-radius: 0%;
+    }
+}
+

@@ -1,0 +1,91 @@
+.text{
+  font-size: x-large;
+  margin-top: -30px;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.options{
+  font-size: x-large;
+margin-left: 1200px;
+display: flex;
+margin-top: -90px;
+}
+
+.box{
+  border: 1px solid #CEC2CD;
+ margin-right: 1000px;
+ margin-top: 70px;
+ height: 280px;
+ width:40%;
+ background-color:#CEC2CD;
+}
+
+.textbox{
+ display: flex;
+  margin-top: -270px;
+margin-left: 30px;
+justify-content: center;
+}
+
+.para{
+  margin-left: 35px;
+  font-size:larger;
+  margin-top: -10px;
+}
+
+.box1{
+  border: 1px solid black;
+  height:30px;
+  width:130px;
+ margin-left: 30px;
+ margin-top:30px;
+ background-color: black;
+}
+#prod{
+  color:white;
+  text-align: center;
+  margin-top: 5px;
+}
+
+#contact{
+  color:black;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.box2{
+  border:1px solid black;
+  height:30px;
+  width: 130px;
+  margin-top: -31.5px;
+  margin-left:200px;
+}
+
+.image{
+  width: 65%;
+  height: 100;
+}
+
+.image > img{
+  width: 100%;
+
+}
+
+
+.container{
+  font-size: xx-large;
+}
+
+#color{
+  color: aqua;
+  margin-left: 115px;
+  margin-top: -72px;
+color: #CEC2CD;
+}
+
+.lorem{
+  margin-left: 500px;
+  margin-top: -200px;
+}
+
+
